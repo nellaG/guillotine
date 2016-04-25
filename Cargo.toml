@@ -3,4 +3,7 @@ name = "guillotine"
 version = "0.1.0"
 authors = ["nellaG <seirios0107@gmail.com>"]
 
+[dependencies.iron]
+version = "*"
+
 [dependencies]
