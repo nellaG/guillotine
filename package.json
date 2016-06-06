@@ -1,0 +1,35 @@
+{
+  "name": "guillotine",
+  "version": "1.0.0",
+  "description": "a strange project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nellaG/guillotine.git"
+  },
+  "keywords": [
+    "guillotine"
+  ],
+  "author": "nellaG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nellaG/guillotine/issues"
+  },
+  "homepage": "https://github.com/nellaG/guillotine#readme",
+  "dependencies": {
+    "babel-core": "^6.7.7",
+    "babel-loader": "^6.2.4",
+    "babel-preset-react": "^6.5.0",
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1",
+    "webpack": "^1.13.0"
+  },
+  "devDependencies": {
+    "jsx-loader": "^0.13.2",
+    "webpack": "^1.13.0",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
